@@ -1,3 +1,7 @@
 * Intepreter 3
 
 This is the code for the inclass activity for CS 421.
+
+
+You can run this on <a href="https://repl.it.guhbub/uiuc-cs421/interpreter-3"><img src="https://repl.it.badge/github/uiuc-cs421/interpreter-3"/></a>
+￼
